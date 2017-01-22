@@ -34,3 +34,5 @@ I have attempted to release this in to the Alexa Skill Store but was rejected by
 >1. We provide our customers with a family-friendly environment and do not permit adult content in skills at this time. Please remove the adult content and resubmit for certification.
 >
 >We provide our customers with a family-friendly environment and do not permit adult content in skills at this time. Please remove the adult content and resubmit for certification.
+
+UrbanMind code extended from the [Node.js Alexa Skills Kit Samples](https://github.com/amzn/alexa-skills-kit-js) from Amazon.
