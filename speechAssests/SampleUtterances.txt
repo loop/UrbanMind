@@ -1,0 +1,4 @@
+DefineIntent what's the meaning of {Word}
+DefineIntent what does {Word} mean
+DefineIntent to define {Word}
+DefineIntent define {Word}
